@@ -1,15 +1,12 @@
 # 63131839-JavaProgramming
 <h2 align="center">LẬP TRÌNH JAVA<br>JAVA Programming</h2>
-
-
-
 <div align="center">
-  <img height="350" src="https://proeffico.com/wp-content/uploads/2023/10/e04182f6094f2764001c1df50b6a2971.gif"/>
+  <img height="350" src= https://proeffico.com/wp-content/uploads/2023/10/mobile-application-digital-marketing.gif />
 </div>
   
-
-<h2 align="center">📂📂 NHỮNG SOURCES CODE BÀI TẬP THỰC HÀNH📂📂</h2>
 ###
+<h2 align="center">📂📂 NHỮNG SOURCES CODE BÀI TẬP THỰC HÀNH📂📂</h2>
+
 <div>
   <h4>📂HelloWorld: <a href = "https://github.com/teddieV/63131839-JavaProgramming/tree/main/HelloWorld">HelloWorld</a></h4>
 </div>
